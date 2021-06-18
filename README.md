@@ -12,7 +12,7 @@ All of my edits are on Translucence theme, and it is just some minor changes suc
 * [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Opera%20GX)
 * [Translucence - Ubuntu](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Ubuntu)
 * [Translucence - Windows 11](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011)
-    * [Dark](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011/light)
+    * [Dark](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011/Dark)
     * [light](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011/light)
 
 ### 🔰 Download
