@@ -1,4 +1,4 @@
-# Translucence Big Sur Theme 
+# Translucence Arch Theme 
 
 ## Download
 
@@ -8,23 +8,23 @@
 
 #### Main chat area
 
-![discord-001](https://i.imgur.com/U3A3TaD.png)
+![discord-001](https://i.imgur.com/S0mQpbM.png)
 
 #### Explore servers
 
-![discord-002](https://i.imgur.com/jjIWaVR.jpeg)
+![discord-002](https://i.imgur.com/Z7pqWrZ.jpeg)
 
 #### User info popout
 
-![discord-003](https://i.imgur.com/5YcMqjr.png)
+![discord-003](https://i.imgur.com/UBlXXFQ.png)
 
 #### User settings
 
-![discord-004](https://i.imgur.com/O7Tj54W.png)
+![discord-004](https://i.imgur.com/K50ltGG.png)
 
 #### DMs
 
-![discord-005](https://i.imgur.com/rg8nTGr.png)
+![discord-005](https://i.imgur.com/uD0RQKb.png)
 
 &nbsp;
 

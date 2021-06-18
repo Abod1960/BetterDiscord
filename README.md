@@ -2,6 +2,6 @@
 
 ### My Edites
 
-All of my edite are on Translucence theme, I edit on to look like macOS Big Sur
+All of my edite are on Translucence theme, and it is just some minor changes such us changing the wallpaper or change the accent color
 
 

@@ -8,23 +8,23 @@
 
 #### Main chat area
 
-![discord-001](https://i.imgur.com/U3A3TaD.png)
+![discord-001](https://i.imgur.com/q0P1ZKK.png)
 
 #### Explore servers
 
-![discord-002](https://i.imgur.com/jjIWaVR.jpeg)
+![discord-002](https://i.imgur.com/pjeijCX.jpeg)
 
 #### User info popout
 
-![discord-003](https://i.imgur.com/5YcMqjr.png)
+![discord-003](https://i.imgur.com/b2UwdO1.png)
 
 #### User settings
 
-![discord-004](https://i.imgur.com/O7Tj54W.png)
+![discord-004](https://i.imgur.com/WW4t5zK.png)
 
 #### DMs
 
-![discord-005](https://i.imgur.com/rg8nTGr.png)
+![discord-005](https://i.imgur.com/Iwl3Y8Q.png)
 
 &nbsp;
 
