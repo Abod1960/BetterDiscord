@@ -17,3 +17,20 @@ All of my edits are on Translucence theme, and it is just some minor changes suc
 
 ### 🔰 Download
 These themes will be able to be download soon, but you can copy the css and paste it in custom css tab in the setting in your discord app.
+## 👤 Author
+
+originally by:
+
+🧍‍♂️ **CapnKitten**
+
+* 💻 GitHub: [@CapnKitten](https://github.com/CapnKitten)
+
+and forked by me:
+
+🕴 **Abod1960**
+
+* 🌐 Website: no website yet 😅
+* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
+* 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
+*  ✉ Gmail: abod1960.work@gmail.com
+*   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
