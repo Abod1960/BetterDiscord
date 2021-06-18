@@ -1,4 +1,4 @@
-<h1 align=center> BetterDiscord Add-ons</h1> 
+<h1 align=center> BetterDiscord Translucence Themes</h1> 
 
 ### 🍃 My Edites
 
