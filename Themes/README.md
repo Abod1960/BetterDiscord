@@ -1,4 +1,4 @@
-# BetterDiscord Themes - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
+# BetterDiscord Themes
 
 ### Themes
 
