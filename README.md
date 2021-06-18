@@ -32,5 +32,5 @@ and forked by me:
 * 🌐 Website: no website yet 😅
 * 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
-*  ✉ Gmail: abod1960.work@gmail.com
+*  ✉ Gmail: [abod1960.work@gmail.com](abod1960.work@gmail.com)
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
