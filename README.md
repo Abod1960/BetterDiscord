@@ -4,7 +4,7 @@
 
 All of my edits are on Translucence theme, and it is just some minor changes such us changing the wallpaper or change the accent color or the main icon.
 
-### 🍀 The themes
+### 🍀 The Themes
 * [Translucence - Arch](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Arch)
 * [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Big%20Sur)
 * [Translucence - Dev](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Dev)
