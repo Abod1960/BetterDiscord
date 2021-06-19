@@ -1,5 +1,9 @@
 <h1 align=center> BetterDiscord Translucence Themes</h1> 
 
+
+![](https://i.imgur.com/CpYGiPD.png)
+
+
 ### 🍃 My Edites
 
 All of my edits are on Translucence theme, and it is just some minor changes such us changing the wallpaper or change the accent color or the main icon.
