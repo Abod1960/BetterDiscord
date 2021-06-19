@@ -2,7 +2,7 @@
 
 ## Download
 
-
+### 🔰 [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Big.Sur.theme.css)
 
 ## Previews
 

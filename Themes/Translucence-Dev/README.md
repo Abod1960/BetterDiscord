@@ -2,7 +2,7 @@
 
 ## Download
 
-
+### 🔰 [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Dev.theme.css)
 
 ## Previews
 

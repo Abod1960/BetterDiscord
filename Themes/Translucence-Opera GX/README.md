@@ -2,7 +2,7 @@
 
 ## Download
 
-
+### 🔰 [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Opera.GX.theme.css)
 
 ## Previews
 
