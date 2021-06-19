@@ -46,3 +46,11 @@ and forked by me:
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
 *  ✉ Gmail: [abod1960.work@gmail.com](abod1960.work@gmail.com)
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+
+### 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/issues). 
+
+### 🌟 Show your support
+
+Give a ⭐️ if you like this project!
