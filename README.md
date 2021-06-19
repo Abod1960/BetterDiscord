@@ -5,15 +5,15 @@
 All of my edits are on Translucence theme, and it is just some minor changes such us changing the wallpaper or change the accent color or the main icon.
 
 ### 🍀 The Themes
-* [Translucence - Arch](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Arch)
-* [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Big%20Sur)
-* [Translucence - Dev](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Dev)
-* [Translucence - Nord](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Nord)
-* [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Opera%20GX)
-* [Translucence - Ubuntu](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Ubuntu)
-* [Translucence - Windows 11](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011)
-    * [Dark](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011/Dark)
-    * [light](https://github.com/Abod1960/BetterDiscord/tree/master/Themes/Translucence%20-%20Windows%2011/light)
+* [Translucence - Arch](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Arch)
+* [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Big%20Sur)
+* [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev)
+* [Translucence - Nord](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Nord)
+* [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Opera%20GX)
+* [Translucence - Ubuntu](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Ubuntu)
+* [Translucence - Windows 11](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011)
+    * [Dark](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011/Dark)
+    * [light](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011/light)
 
 ### 🔰 Download
 Now you can get all of these themes and use them in your discord app, and here is the links:
