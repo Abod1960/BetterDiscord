@@ -83,6 +83,13 @@ body {
     min-width: 30px;
     min-height: 30px;
 }
+.folder-1hbNCn,
+.expandedFolderBackground-1cujaW {
+    background: #2A000C
+}
+.folder-1hbNCn.hover-qTxTR_ {
+    background: #2A000C;
+}
 
 .layers-3iHuyZ {
   margin: calc(var(--app-margin) / 2) var(--app-margin) var(--app-margin) var(--app-margin);
