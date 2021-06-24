@@ -2,7 +2,7 @@
 
 ## Download
 
-### 🔰 [Translucence - Paper](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Arch.theme.css)
+### 🔰 [Translucence - Paper](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Paper.theme.css)
 
 ## Previews
 
