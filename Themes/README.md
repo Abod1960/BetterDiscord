@@ -7,6 +7,7 @@
 * [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev)
 * [Translucence - Nord](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Nord)
 * [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Opera%20GX)
+* [Translucence - Paper](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper)
 * [Translucence - Ubuntu](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Ubuntu)
 * [Translucence - Windows 11](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011)
     * [Dark](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011/Dark)
@@ -19,6 +20,7 @@ Now you can get all of these themes and use them in your discord app, and here i
 * 🔰 [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Dev.theme.css)
 * 🔰 [Translucence - Nord](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Nord.theme.css)
 * 🔰 [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Opera.GX.theme.css)
+* 🔰 [Translucence - Paper](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Paper.theme.css)
 * 🔰 [Translucence - Ubuntu](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Ubuntu.theme.css)
 * Translucence - Windows 11
     * 🔰 [Dark](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Windows.11.-.Dark.theme.css)
