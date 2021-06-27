@@ -4,15 +4,15 @@
 ![](https://i.imgur.com/CpYGiPD.png)
 
 
-### 🍃 My Edites
+## 🍃 My Edites
 
 All of my edits are on Translucence theme, and it is just some minor changes such us changing the wallpaper or change the accent color or the main icon.
 
-### 🌾 Updates
+## 🌾 Updates
 > *Update 1*
 >> add *Translucence-Paper* theme.
 
-### 🍀 The Themes
+## 🍀 The Themes
 * [Translucence - Arch](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Arch)
 * [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Big%20Sur)
 * [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev)
@@ -24,7 +24,7 @@ All of my edits are on Translucence theme, and it is just some minor changes suc
     * [Dark](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011/Dark)
     * [light](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Windows%2011/light)
 
-### 🔰 Download
+## 🔰 Download
 Now you can get all of these themes and use them in your discord app, and here is the links:
 * 🔰 [Translucence - Arch](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Arch.theme.css)
 * 🔰 [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Big.Sur.theme.css)
@@ -37,7 +37,7 @@ Now you can get all of these themes and use them in your discord app, and here i
     * 🔰 [Dark](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Windows.11.-.Dark.theme.css)
     * 🔰 [light](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Windows.11.-.light.theme.css)
 
-### 👤 Author
+## 👤 Author
 
 originally by:
 
@@ -56,6 +56,7 @@ and forked by me:
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
 *  ✉ Gmail: [abod1960.work@gmail.com](abod1960.work@gmail.com)
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+*   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
 ### 🤝 Contributing
 
