@@ -58,10 +58,10 @@ and forked by me:
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
 *   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/issues). 
 
-### 🌟 Show your support
+## 🌟 Show your support
 
 Give a ⭐️ if you like this project!
