@@ -2,7 +2,7 @@
 
 ## Download
 
-### 🔰 [Translucence - Opera Neon - Dark Theme ](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Windows.11.-.Dark.theme.css)
+### 🔰 [Translucence - Opera Neon - Dark Theme ](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Opera.Neon.-.Dark.theme.css)
 
 ## Previews
 
