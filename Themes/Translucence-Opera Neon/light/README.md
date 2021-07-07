@@ -1,30 +1,30 @@
-# Translucence - Windows 11 - light Theme 
+# Translucence - Opera Neon - light Theme 
 
 ## Download
 
-### 🔰 [Translucence - Windows 11 - light](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Windows.11.-.light.theme.css)
+### 🔰 [Translucence - Opera Neon - light Theme ](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Windows.11.-.light.theme.css)
 
 ## Previews
 
 #### Main chat area
 
-![discord-001](https://i.imgur.com/q0P1ZKK.png)
+![discord-001](https://i.imgur.com/ZZq4pgK.jpeg)
 
 #### Explore servers
 
-![discord-002](https://i.imgur.com/pjeijCX.jpeg)
+![discord-002](https://i.imgur.com/XBTHgge.jpeg)
 
 #### User info popout
 
-![discord-003](https://i.imgur.com/b2UwdO1.png)
+![discord-003](https://i.imgur.com/a0qgYcD.png)
 
 #### User settings
 
-![discord-004](https://i.imgur.com/WW4t5zK.png)
+![discord-004](https://i.imgur.com/azdaTmW.png)
 
 #### DMs
 
-![discord-005](https://i.imgur.com/Iwl3Y8Q.png)
+![discord-005](https://i.imgur.com/3vd4O6o.png)
 
 &nbsp;
 

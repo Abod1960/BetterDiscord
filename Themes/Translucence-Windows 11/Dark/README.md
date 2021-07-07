@@ -1,4 +1,4 @@
-# Translucence Translucence - Windows 11 - Dark Theme 
+# Translucence - Windows 11 - Dark Theme 
 
 ## Download
 
