@@ -46,6 +46,20 @@ Now you can get all of these themes and use them in your discord app, and here i
     * 🔰 [Dark](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Opera.Neon.-.Dark.theme.css)
     * 🔰 [light](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Opera.Neon.-.Light.theme.css)
 
+## 🧾 Instructions
+
+1. you need to download [BetterDiscord](https://betterdiscord.app) at first.
+2. download the file of the theme you want.
+3. open discord the go to the user settings, and open themes tab, "if you can't see the Themes tab then this is because you didn't download BetterDiscord.
+4. when you are in the Themes tab you will see a button at the top of the page <kbd> Open Themes Folder</kbd> click on it.
+5. an explorer window will pop up, ignore this window for now then >>
+6. copy the theme file you downloaded already.
+7. paste it in the themes folder that just poped up when you clicked on <kbd> Open Themes Folder</kbd>.
+8. close the setteings then press <kbd>Ctrl</kbd> + <kbd>R</kbd> inside your discord app.
+9. now wait for it to refresh then go to the settings and enable the theme you downloaded in the Themes tab.
+10. Enjoy!
+
+
 ## 👤 Author
 
 originally by:
