@@ -14,11 +14,15 @@ All of my edits are on Translucence theme, and it is just some minor changes suc
 >
 > *Update 2*
 >> add *Translucence-Opera Neon - Dark And Light* theme.
+>
+> *Update 3*
+>> add *Translucence-Medieval theme.
 
 ## 🍀 The Themes
 * [Translucence - Arch](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Arch)
 * [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Big%20Sur)
 * [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev)
+* [Translucence - Medieval](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Medieval)
 * [Translucence - Nord](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Nord)
 * [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Opera%20GX)
 * [Translucence - Paper](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper)
@@ -35,6 +39,7 @@ Now you can get all of these themes and use them in your discord app, and here i
 * 🔰 [Translucence - Arch](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Arch.theme.css)
 * 🔰 [Translucence - Big Sur](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Big.Sur.theme.css)
 * 🔰 [Translucence - Dev](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Dev.theme.css)
+* 🔰 [Translucence - Medieval](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Medieval.theme.css)
 * 🔰 [Translucence - Nord](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Nord.theme.css)
 * 🔰 [Translucence - Opera GX](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Opera.GX.theme.css)
 * 🔰 [Translucence - Paper](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/releases/download/1.0/Translucence.-.Paper.theme.css)
