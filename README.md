@@ -16,7 +16,7 @@ All of my edits are on Translucence theme, and it is just some minor changes suc
 >> add *Translucence-Opera Neon - Dark And Light* theme.
 >
 > *Update 3*
->> add *Translucence-Medieval theme.
+>> add *Translucence-Medieval* theme.
 
 ## 🍀 The Themes
 * [Translucence - Arch](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Arch)
