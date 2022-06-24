@@ -1,7 +1,7 @@
 <h1 align=center> BetterDiscord Translucence Themes</h1> 
 
 
-![](https://i.imgur.com/CpYGiPD.png)
+![](https://i.imgur.com/Xrz3Ehm.png)
 
 
 ## 🍃 My Edites
