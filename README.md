@@ -6,7 +6,7 @@
 
 ## 🍃 My Edites
 
-All of my edits are on Translucence theme, and it is just some minor changes such us changing the wallpaper or change the accent color or the main icon.
+All of my edits are on Translucence theme, and it is just some minor changes such as changing the wallpaper or change the accent color or the main icon.
 
 ## 🌾 Updates
 > *Update 1*
